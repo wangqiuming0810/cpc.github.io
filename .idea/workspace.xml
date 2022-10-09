@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b0d423f3-8432-4e6f-981b-a8b05723d11e" name="变更" comment="">
+      <change beforePath="$PROJECT_DIR$/images/class_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/class_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/class_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/class_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/class_5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/people1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/people2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/people3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/people4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/people5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/w1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/w2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/宣传视频.mp4" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2FiP1qqdbg0uOy3QNyAJPv5en5R" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="false" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Code/web/front/WebstormProjects/BlogAdmin&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Code\web\二十大网页设计比赛\my-二十大\CSS" />
+      <recent name="D:\Code\web\二十大网页设计比赛\my-二十大" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="b0d423f3-8432-4e6f-981b-a8b05723d11e" name="变更" comment="" />
+      <created>1664971720419</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1664971720419</updated>
+      <workItem from="1664971721587" duration="14200000" />
+      <workItem from="1665038969521" duration="6285000" />
+      <workItem from="1665199029409" duration="1393000" />
+      <workItem from="1665200824552" duration="718000" />
+      <workItem from="1665225017409" duration="1465000" />
+      <workItem from="1665292519439" duration="2709000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
